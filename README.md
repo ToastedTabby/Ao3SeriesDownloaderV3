@@ -6,13 +6,8 @@ Ao3. Works in Firefox, Chrome, and Edge.
 *Note: You need to be logged into AO3 to see the Download Series button.*
 
 ## Installation Instructions
-Most users will likely want to install this from the
-[Chrome Web Store (for Chrome and Edge Users)](https://chrome.google.com/webstore/detail/ao3-series-downloader/lhdccommkdbadfgjhlccfmcpdhmepjik)
-or the [Mozilla Addons Site (for
-Firefox)](https://addons.mozilla.org/en-US/firefox/addon/ao3-series-downloader/).
-This ensures the extension will be kept up-to-date automatically.
+I don't know how to make an extension and frankly have no interest in doing so, as sideloading it works just fine for me, so I've removed the original creator's note here about downloading the browser extensions. I only use Chrome, so I don't know how the Firefox or Edge extensions are and if they still work, but if you're interested in those, please see the original creator's page [here](https://github.com/SeanZWrites/Ao3SeriesDownloader).
 
-However, it can also be sideloaded into the browser.
 
 ### Sideloading in Chrome
 Once this extension is downloaded:
@@ -21,6 +16,7 @@ Once this extension is downloaded:
   - Then click 'Load Unpacked', and navigate to this folder. 
   
 You should see this extension appear.
+
 
 ### Sideloading in Edge
 Sideloading in Edge is virtually identical to sideloading in Chrome, except
@@ -44,6 +40,7 @@ However, if you'd like to test the extension, or just load it without using the 
   - Navigate to where you downloaded these files, and select any file in the folder. 
 
 The extension will be loaded into Firefox until you close the browser. 
+
 
 ## Acknowledgements
 The icon for this extension was built using the free icons provided on
