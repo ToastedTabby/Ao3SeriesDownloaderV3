@@ -21,4 +21,5 @@ You should see this extension appear.
 ## Acknowledgements
 The icon for this extension was built using the free icons provided on
 [Google Fonts](https://fonts.google.com/icons).
+
 Thank you to [SeanZWrites](https://github.com/SeanZWrites) for the original code; all I've done is updated the manifest for V3 compatibility according to [Chrome's V3 migration checklist](https://developer.chrome.com/docs/extensions/develop/migrate/checklist). If SeanZWrites ever updates the extension, I'll delete this fork as unnecessary.
