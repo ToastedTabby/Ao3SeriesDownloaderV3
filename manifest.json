@@ -1,7 +1,7 @@
 {
     "name": "Ao3 Series Downloader",
     "description": "Easily download a series from Ao3!",
-    "homepage_url": "https://github.com/SeanZWrites/Ao3SeriesDownloader",
+    "homepage_url": "https://github.com/ToastedTabby/Ao3SeriesDownloaderV3",
     "version": "1.0.1",
     "manifest_version": 3,
     "permissions": ["downloads"],
