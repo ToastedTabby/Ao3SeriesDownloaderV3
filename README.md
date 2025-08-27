@@ -1,7 +1,7 @@
 # Ao3 Series Downloader
 
 A simple, open-source browser plugin that adds a 'Download Series' button in
-Ao3. Works in Firefox, Chrome, and Edge.
+Ao3. Works in Chrome; Firefox and Edge are untested.
 
 *Note: You need to be logged into AO3 to see the Download Series button.*
 
@@ -18,30 +18,7 @@ Once this extension is downloaded:
 You should see this extension appear.
 
 
-### Sideloading in Edge
-Sideloading in Edge is virtually identical to sideloading in Chrome, except
-the extension page is located at `edge://extensions`. Once on the page,
-enable developer mode, and click 'Load Unpacked'. 
-
-Note that Edge will notify you every so often if you leave a sideloaded
-extension turned on, and re-confirm that you want to leave the (developer)
-extension enabled.
-
-
-### Sideloading in Firefox
-Firefox does not allow sideloading in normal releases, so you'll need to use
-either the Developer Edition, or a nightly build. Additionally, you'll need to
-re-do this process every time you load Firefox (hence why installing it from the
-official store is recommended).
-
-However, if you'd like to test the extension, or just load it without using the store:
-  - Go to `about:debugging#/runtime/this-firefox`
-  - Click 'Load Temporary Add-on...'
-  - Navigate to where you downloaded these files, and select any file in the folder. 
-
-The extension will be loaded into Firefox until you close the browser. 
-
-
 ## Acknowledgements
 The icon for this extension was built using the free icons provided on
 [Google Fonts](https://fonts.google.com/icons).
+Thank you to [SeanZWrites](https://github.com/SeanZWrites) for the original code; all I've done is updated the manifest for V3 compatibility according to [Chrome's V3 migration checklist](https://developer.chrome.com/docs/extensions/develop/migrate/checklist). If SeanZWrites ever updates the extension, I'll delete this fork as unnecessary.
